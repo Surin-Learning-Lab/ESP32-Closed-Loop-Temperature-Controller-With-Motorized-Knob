@@ -62,7 +62,7 @@ This project demonstrates practical embedded control, sensor integration, motion
 - 5V external power supply (2–3A recommended)
 - Optional belt reduction (3:1 used in this build)
 
----<img width="849" height="605" alt="pcb" src="https://github.com/user-attachments/assets/8dbca9e4-234a-4759-92a1-3bf2fa8ac0a7" />
+---<img width="50%" height="50%" alt="pcb" src="https://github.com/user-attachments/assets/8dbca9e4-234a-4759-92a1-3bf2fa8ac0a7" />
 
 
 ## Pin Configuration
