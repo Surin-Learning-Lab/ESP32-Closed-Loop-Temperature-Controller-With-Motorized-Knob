@@ -185,15 +185,6 @@ Install the following libraries using Arduino Library Manager:
 - Encrypted web interface
 - Automatic power-loss recovery with mechanical re-alignment
 
----
-
-## Author
-
-Kevin Kearns  
-Embedded and IoT Developer  
-Self-taught MCU and electronics developer  
-Web Development Bootcamp Graduate  
-Creator of Intro to Arduino Course  
 
 ---
 
